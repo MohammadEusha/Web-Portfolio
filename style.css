@@ -63,9 +63,6 @@ section{
 .Work{
     float: left;
 }
-.f{
-    float: left;
-}
 
 .Work1{
     padding-top: 2%;
@@ -78,9 +75,8 @@ section{
     color: white;
     font-weight: bolder;
 }
-h1 .f{
-    font-size: 100px;
-}
+
+
 footer{
     text-align: center;
     line-height: 10px;
