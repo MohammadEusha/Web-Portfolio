@@ -81,17 +81,17 @@ footer{
     text-align: center;
     line-height: 10px;
 }
-.icon{
-    width: 25%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.small{
-    height: 30px;
-    width: 30px;
-}
+
 .text-colr{
     color: darkslategray;
     font-weight: bolder;
+}
+
+.icons{
+    float: left;
+    width:2%;
+    
+}
+.icon{
+    margin-left:47%;
 }
